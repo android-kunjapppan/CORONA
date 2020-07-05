@@ -16,7 +16,7 @@ import pandas as pd
 import streamlit as st 
 
 from PIL import Image
-pickle_in = open("/content/virus_model.pkl","rb")
+pickle_in = open("virus_model.pkl","rb")
 classifier=pickle.load(pickle_in)
 
 def welcome():
