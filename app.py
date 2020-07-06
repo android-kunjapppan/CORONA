@@ -48,6 +48,8 @@ def main():
             result="Great! You tested Negative for Corona Virus, Stay Home! Stay Safe!"
         else:
             result="Sorry! You tested Positive for Corona Virus, Recover SOON <3"
+    
+    st.success('Result: {}'.format(result))    
 
 if __name__=='__main__':
     main()
