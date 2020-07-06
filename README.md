@@ -1,4 +1,4 @@
 # CORONA
 
 
-https://corona-predictor-maheer.herokuapp.com/
+Link: https://corona-predictor-maheer.herokuapp.com/
